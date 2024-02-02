@@ -23,7 +23,7 @@ HTML/CSS
 To run the project locally, follow these steps:
 -----------------------------------------------
 
-Clone the repository: git clone https://github.com/your-username/specialized-online-store.git
+Clone the repository: git clone https://github.com/TornikeAl7/specialized-online-store.git
 Navigate to the project directory: cd specialized-online-store
 Install dependencies: mvn install
 Configure the database connection in application.properties
@@ -32,7 +32,7 @@ Run the application: mvn spring-boot:run
 
 Usage:
 ------
-Once the application is running, you can access it in your web browser at http://localhost:8080. From there, you can browse the selection of special goods, view product details, place orders, and interact with the community features.
+Once the application is running, you can access it in your web browser at http://localhost:5432. From there, you can browse the selection of special goods, view product details, place orders, and interact with the community features.
 
 Contributing:
 -------------

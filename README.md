@@ -1,5 +1,5 @@
 Specialized Online Store
-------------------------
+-------------------------
 
 The Specialized Online Store is an e-commerce platform designed to cater to niche markets with unique needs. It offers a curated selection of special goods, ranging from artisanal crafts to rare collectibles, providing users with a platform to discover and purchase unique items.
 
